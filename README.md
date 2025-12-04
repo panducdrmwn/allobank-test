@@ -9,18 +9,4 @@ In this assignment, you’re assigned to create a website that displays rockets.
 - As a user, I want to be able to see the rocket detail by clicking a rocket in the rocket list screen (Show rocket image, rocket name, rocket description, cost per launch, country, first flight)
 
 ### Non-Functional Requirements
-- Use Space-X API (https://github.com/r-spacex/SpaceX-API) for getting the rocket data
-- Implement routers
-- Implement state management
-- Implement lifecycles
-- Create components based will be + points
-- UI states (Loading, Fail/Retry, and Success)
-- Show loading when waiting response from API
-- If an error occurred, user can retry by pressing retry button
-- Show result when get response from API
-
-### Nice to have characteristics
-Responsive design
-You don’t need to worry about the detailed design, we’re not interested in your artistic prowess (for now), put your efforts on creating a readable/clean/maintainable source code.
-
-Good luck with your assignment! Don't hesitate to contact us if you have any questions about the assignment process.
+- the create rocket features requires API key from the author, there's no information on how to get the api key. and based on the documentation theres not a single project implementing the Create function with this API.
